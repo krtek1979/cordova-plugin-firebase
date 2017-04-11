@@ -2,5 +2,39 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>321143353793-9k8movm0sfs14q1vls4cqj1kq7v17fvt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.321143353793-9k8movm0sfs14q1vls4cqj1kq7v17fvt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBd9m9bINwjS00SmIAxr5e3YvSeFj5orvM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>321143353793</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>CData-Te-rke-pta-r-Kft.iMenetrendek</string>
+	<key>PROJECT_ID</key>
+	<string>menetrendek-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>menetrendek-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:321143353793:ios:775a5a724137682b</string>
+	<key>DATABASE_URL</key>
+	<string>https://menetrendek-app.firebaseio.com</string>
 </dict>
 </plist>
