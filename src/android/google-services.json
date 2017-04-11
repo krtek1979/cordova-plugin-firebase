@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "321143353793",
+    "firebase_url": "https://menetrendek-app.firebaseio.com",
+    "project_id": "menetrendek-app",
+    "storage_bucket": "menetrendek-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321143353793:android:b6cc0cf953ec1582",
+        "android_client_info": {
+          "package_name": "hu.cdata.menetrendekapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321143353793-ue7b6kkbpg47pkbd86quev5e543ndao5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS695j91wgDOdo-FSiAHbAOsukjuLjT4E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
