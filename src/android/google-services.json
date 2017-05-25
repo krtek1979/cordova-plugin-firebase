@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "321143353793",
-    "firebase_url": "https://menetrendek-app.firebaseio.com",
-    "project_id": "menetrendek-app",
-    "storage_bucket": "menetrendek-app.appspot.com"
+    "project_number": "161259866220",
+    "firebase_url": "https://menetrendek-92582.firebaseio.com",
+    "project_id": "menetrendek-92582",
+    "storage_bucket": "menetrendek-92582.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:321143353793:android:b6cc0cf953ec1582",
+        "mobilesdk_app_id": "1:161259866220:android:b6cc0cf953ec1582",
         "android_client_info": {
           "package_name": "hu.cdata.menetrendekapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "321143353793-ue7b6kkbpg47pkbd86quev5e543ndao5.apps.googleusercontent.com",
+          "client_id": "161259866220-ndlsq6gd4k4oferrrf3sds8o2a9qfso6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.cdata.menetrendekapp",
+            "certificate_hash": "aa8317728f9add9c1e06b9acff42f6742b4ca2cb"
+          }
+        },
+        {
+          "client_id": "161259866220-gijo366n8o0hq7g0pargqt045emjfac2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAS695j91wgDOdo-FSiAHbAOsukjuLjT4E"
+          "current_key": "AIzaSyBKwmVLjx0msV1EmoyTUAu3tgA7rN8JVz8"
         }
       ],
       "services": {
@@ -29,8 +37,21 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161259866220-gijo366n8o0hq7g0pargqt045emjfac2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "161259866220-170gekfe8d4fe0aun0h5vu2gibqv5q3d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "CData-Te-rke-pta-r-Kft.iMenetrendek",
+                "app_store_id": "797449676"
+              }
+            }
+          ]
         },
         "ads_service": {
           "status": 2
